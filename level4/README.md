@@ -1,0 +1,1 @@
+We got stuck in here until the event was over. It seems like everything was fine, but we didn't realize that the ID order of the hotspot was based on the position of the center of said hotspots, rather than the position of the buildings. This program generated the correct output for the first input, but not for the other, likely for this reason.
